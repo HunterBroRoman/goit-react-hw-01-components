@@ -1,15 +1,15 @@
 .profile {
   margin: 0 auto;
-  margin-top: 30px;
-  padding: 10px;
+  margin-top: 20px;
+  padding: 15px;
   width: 400px;
   height: 100%;
   text-align: center;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 400;
-  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
-  border-radius: 15px;
-  background-color: rgb(26, 228, 160);
+  box-shadow: 4px 4px 24px 0px rgb(27, 43, 224);
+  border-radius: 10px;
+  background-color: rgb(108, 173, 151);
 }
 
 .avatar {
@@ -21,7 +21,7 @@
 
 .name {
   margin-top: 10px;
-  font-size: 28px;
+  font-size: 35px;
   font-weight: 700;
 }
 
@@ -33,7 +33,7 @@
 .location {
   margin-top: 10px;
   font-size: 24px;
-  color: green;
+  color: rgb(210, 176, 103);
 }
 
 .stats {
