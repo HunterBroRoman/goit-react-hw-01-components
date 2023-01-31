@@ -9,8 +9,7 @@ import data from './Statistics/data.json';
 
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 import transactions from './TransactionHistory/transactions.json';
-
-
+// import { buildQueries } from '@testing-library/react';
 
 export const App = () => {
   return (

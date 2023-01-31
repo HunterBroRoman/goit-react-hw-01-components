@@ -2,8 +2,8 @@
   width: 430px;
   margin: 30px auto;
   box-shadow: 4px 4px 24px 0px rgb(48, 62, 218);
-background-color: black;
-border-radius: 15px;
+  background-color: rgb(167, 201, 223);
+  border-radius: 15px;
 }
 
 .title {
@@ -19,7 +19,7 @@ border-radius: 15px;
 }
 
 .stat_item {
-  width: calc(100%/5);
+  width: calc(100% / 5);
   display: flex;
   flex-direction: column;
   padding: 20px 0;
